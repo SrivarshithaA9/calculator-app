@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -73,3 +74,7 @@ export default defineConfig([
 ])
 
 ```
+=======
+# calculator-app
+Copilot integrated with vs code
+>>>>>>> c1fcc6e65139a56f8cbb4f0d46628fd0b7e8b616
